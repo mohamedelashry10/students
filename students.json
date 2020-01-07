@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "mohamed Elashry",
+      "email": "mohamed@gmail.com",
+      "age":23
+    },
+    {
+      "id": 2,
+      "name": "ahmed mohsen",
+      "email": "ahmed@gmail.com",
+      "age":18
+    },
+    {
+      "id": 3,
+      "name": "sara khaled",
+      "email": "sara@gmail.com",
+      "age":27
+    },
+    {
+      "id": 4,
+      "name": "ali mohamed",
+      "email": "ali@gmail.com",
+      "age":20
+    },
+    {
+      "id": 5,
+      "name": "hassan ahmed",
+      "email": "hassan@gmail.com",
+      "age":25
+    }
+  ]
+}
